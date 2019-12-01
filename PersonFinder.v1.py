@@ -1,3 +1,6 @@
+"""You have to transfer ACCESS_TOKEN as argument when launching the programm from command line
+"""
+
 import optparse as op
 import sys
 import requests
