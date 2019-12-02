@@ -1,4 +1,6 @@
-"""You have to transfer ACCESS_TOKEN as argument when launching the programm from command line
+"""Script allows to make searching for users whose names or to search users without those whose names class methods receive
+Also allows to make recursive searching in user`s friends list
+You have to transfer ACCESS_TOKEN as argument when launching the programm from command line
 """
 
 import optparse as op
